@@ -1,1 +1,14 @@
-# Programming-Basics-January-2024-Repo
+# Programming Basics January 2024-Repo
+
+# Welcome to Instructor Wael's GitHub Repo
+ 
+
+## clone / fork this repo, then`git pull` to get the latest changes
+
+<br />
+
+<img src="https://github.com/Alaa-1/git_assets/blob/602d3adae821af29d428f7d6b2a83de4d276a71c/codingDojoHr.png" alt="Coding Dojo Logo" width="180">
+
+<br />
+
+<img src="https://www.gcreddy.com/wp-content/uploads/2022/06/Basics-of-Computer-Programming.jpg" alt="Mern logo" width="180">
